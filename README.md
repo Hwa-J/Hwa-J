@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Hwa-J%20Github&fontSize=80&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Hwajeong%20Github&fontSize=60&fontAlignY=20&desc=Hi!%20there%20👋%20Thank%20you%20for%20visit!&descAlignY=51" />
 
 
 <div align="center">
@@ -12,6 +12,6 @@
   <img src="https://img.shields.io/badge/styled_components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwa-J&layout=compact"><br><br>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwa-J&layout=compact"><br><br> -->
 <img src="https://github-readme-stats.vercel.app/api?username=Hwa-J&show_icons=true">
 </div>
